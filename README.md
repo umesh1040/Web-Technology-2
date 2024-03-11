@@ -1,4 +1,4 @@
-Extract Zip file.
+Download & Extract Zip file.
 
 
 find and run .sln file
